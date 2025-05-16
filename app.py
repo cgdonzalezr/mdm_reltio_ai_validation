@@ -1,11 +1,9 @@
 import streamlit as st
 import altair as alt
-import dataiku
 import pandas as pd, numpy as np
 import re
 
 from datetime import datetime, timedelta
-from dataiku import pandasutils as pdu
 
 # import config
 
